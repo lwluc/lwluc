@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-My name is Luc Weinbrecht. Living and working as a Consultant in Karlsruhe 🏰. Find me on Twitter [🐦](https://twitter.com/lwluc).
+My name is Luc Weinbrecht. Living and working as a Consultant in Karlsruhe 🏰. 
 
 ## 🔧 Technologies & Tools 🔨
 
@@ -10,12 +10,16 @@ My name is Luc Weinbrecht. Living and working as a Consultant in Karlsruhe 🏰.
 ![](https://img.shields.io/badge/IDE-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Camunda-informational?style=flat&logo=camunda&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Methods-BPM-informational?style=flat&logo=bpm&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Methods-DDD-informational?style=flat&logo=ddd&logoColor=white&color=2bbc8a)
 
 ## 📈 GitHub Stats
 
